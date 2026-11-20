@@ -2,7 +2,7 @@
   "descriptionHash": "3D902661034F1510EE0053720AE2ACA426D37DBA15215294AE11184AC5CBA1C68E6A4CAB2759F53B76C4D4F9FE2401C8F19C0A88FE96317530D56DFE42658823",
   "descriptionLocation": "../../openapi.fixed.json",
   "lockFileVersion": "1.0.0",
-  "kiotaVersion": "1.38.0",
+  "kiotaVersion": "1.39.0",
   "clientClassName": "GoogleCalendarOpenApiClient",
   "typeAccessModifier": "Public",
   "clientNamespaceName": "Soenneker.Google.Calendar.OpenApiClient",
